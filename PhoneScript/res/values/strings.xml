@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">手机精灵</string>
+    <string name="action_settings">Settings</string>
+    <string name="readme">【使用说明】\n\t1.安装本程序\n\t2.安装xposed并勾选本模块\n\t3.将配置文件保存到/mnt/sdcard/option.txt\n\t4.将头像文件保存到/mnt/sdcard/head.png\n</string>
+    <string name="option"></string>
+    <string name="title_activity_script">ScriptActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_option">OptionActivity</string>
+    <string name="title_activity_run">RunActivity</string>
+
+</resources>
